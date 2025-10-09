@@ -1,4 +1,6 @@
 # ADS LAB-TASK
+Lab task done inside/outside the class for the course TFB2023/TEB1113: Algorithm and Data Structure.
+
 Lab Task  | Information 
 ------------- | ------------- 
 25/9/2025  | [LabTask1 - Student Details Array](Lab-Task1.cpp)  
